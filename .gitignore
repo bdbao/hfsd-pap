@@ -1,0 +1,14 @@
+.DS_Store
+train_data
+data
+logs
+
+wandb
+.env
+.envrc
+__pycache__/
+
+*.zip
+
+ui/*
+!ui/human_feedbacks.py
