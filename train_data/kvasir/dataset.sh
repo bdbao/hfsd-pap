@@ -1,0 +1,1 @@
+!wget https://datasets.simula.no/downloads/kvasir-seg.zip
